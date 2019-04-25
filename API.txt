@@ -1,0 +1,9 @@
+https://pythonhosted.org/face_recognition/_modules/face_recognition/api.html
+
+https://face-recognition.readthedocs.io/en/latest/face_recognition.html
+
+https://www.jianshu.com/p/eb4bec6459c7 install facerecognition
+
+ttps://zhuanlan.zhihu.com/p/29096536
+
+https://blog.csdn.net/zouxy09/article/details/8775518…Ó∂»—ßœ∞ΩÈ…‹
