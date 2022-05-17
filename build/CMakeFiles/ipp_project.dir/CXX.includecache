@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/intel/oneapi/ippcp/2021.6.0/include/ippcp.h
+ippcpdefs.h
+/opt/intel/oneapi/ippcp/2021.6.0/include/ippcpdefs.h
+
+/opt/intel/oneapi/ippcp/2021.6.0/include/ippcpdefs.h
+
+/root/ylx/my_aes/ipp_project/include/aes_256_ctr.h
+stdio.h
+-
+ippcp.h
+/root/ylx/my_aes/ipp_project/include/ippcp.h
+
+/root/ylx/my_aes/ipp_project/src/aes_256_ctr.cc
+../include/aes_256_ctr.h
+/root/ylx/my_aes/ipp_project/include/aes_256_ctr.h
+ippcp.h
+/root/ylx/my_aes/ipp_project/src/ippcp.h
+assert.h
+-
+string.h
+-
+
